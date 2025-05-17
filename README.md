@@ -45,7 +45,7 @@ The Excel file is organized into the following 3 tabs:
 ## When to Use This Template
 
 You can use this Excel template for:
-- Manual testing practice on demo projects (e.g., GreenKart, FrontAccounting, OrangeHRM)
+- Manual testing practice on demo projects
 - Interview assignments or practice
 - Learning how to document test cases and bugs in a clear format
 - Showcasing your test documentation skills on GitHub
@@ -58,17 +58,6 @@ You can use this Excel template for:
 2. Update the **Project Info** tab with your project’s name and description.
 3. Write your test cases in the **Test Cases** tab as you explore the application.
 4. Log any bugs in the **Defect Report** tab, including reproduction steps.
-
----
-
-## Optional: Add Screenshots
-
-You can also add a few screenshots to this README, such as:
-- The Project Info tab
-- Test Cases tab
-- Defect Report tab
-
-This helps others understand your work at a glance.
 
 ---
 
