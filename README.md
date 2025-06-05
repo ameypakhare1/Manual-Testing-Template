@@ -64,7 +64,6 @@ You can use this Excel template for:
 ## Author
 
 **Amey Pakhare**  
-Previously worked at Excel Software & Systems Pvt. Ltd.
 
 ---
 
